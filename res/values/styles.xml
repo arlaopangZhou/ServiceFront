@@ -22,5 +22,12 @@
         <item name="android:windowIsTranslucent">true</item>
         <item name="android:windowAnimationStyle">@+android:style/Animation.Translucent</item>
     </style>
-
+    
+    <style name="valueTextView">
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@drawable/value_text_color</item>
+    </style>
+    
 </resources>

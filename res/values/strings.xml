@@ -23,5 +23,7 @@
     <string name="app_name_notfullscreen">SevicFront</string>
     <string name="title_activity_nfs_main">NfsMainActivity</string>
     <string name="hello_world">Hello world!</string>
+    <string name="reset_yes">Yes</string>
+    <string name="reset_no">No</string>
 
 </resources>

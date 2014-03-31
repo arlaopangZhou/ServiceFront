@@ -61,5 +61,9 @@
         <item>1</item>
         <item>0</item>
     </string-array>
+    <string-array name="reset">
+        <item>@string/reset_yes</item>
+        <item>@string/reset_no</item>
+    </string-array>
 
 </resources>
